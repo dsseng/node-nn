@@ -1,5 +1,7 @@
 import tanh from './tanh'
+import linear from './linear'
 
 export default {
-  tanh: tanh
+  tanh: tanh,
+  linear: linear
 }

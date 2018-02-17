@@ -1,5 +1,1 @@
-function tanh (x) {
-  return Math.tanh(x)
-}
-
-export default tanh
+export default x => Math.tanh(x)
